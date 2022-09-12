@@ -7,6 +7,6 @@
  of patent rights can be found in the PATENTS file in the same directory.
  */
 
-#import <FBShimmering.h>
-#import <FBShimmeringView.h>
-#import <FBShimmeringLayer.h>
+#import "FBShimmering.h"
+#import "FBShimmeringView.h"
+#import "FBShimmeringLayer.h"
